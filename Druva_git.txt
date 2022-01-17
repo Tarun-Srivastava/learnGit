@@ -1,0 +1,14 @@
+Git Commands:
+git clone https://git.druva.org/tarun.srivastava/phoenix.git
+cd phoenix
+git checkout <branchname> { -b incase of new branch}
+git remote add phoenix https://git.druva.org/phoenixdev/phoenix.git
+git pull f_automation_fixes
+git 
+
+git remote -v(all the remote repos list origin/upstream)
+git branch (lists all the branches)
+git config --global user.name
+git config --global user.email
+git config --global --list(list all global info.)
+
